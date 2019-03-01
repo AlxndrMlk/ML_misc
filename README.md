@@ -1,2 +1,2 @@
 # ML_misc
-ML Misc
+Models, convenience functions, experiments, excercises.
